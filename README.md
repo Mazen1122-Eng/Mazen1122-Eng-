@@ -15,7 +15,7 @@
 - 🌱 I'm currently sharpening my skills in **Python** and **C++**
 - 👯 I'm looking to collaborate on **Flutter / Mobile App projects**
 - 💬 Ask me about **Flutter, Dart, Mobile Development, Python, C++**
-- 📫 How to reach me: **[إيميلك هنا]**
+- 📫 How to reach me: **maz3030maz@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into working mobile apps**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,5 +43,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="USERNAME" />
-</p>/>
+</p>
 
